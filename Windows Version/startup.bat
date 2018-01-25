@@ -1,5 +1,5 @@
 @echo off
-echo Remote Paperspace Start Utility
+echo Cloud Gaming Console System
 echo build 0013b
 echo.
 echo Starting Remote Gaming System....
